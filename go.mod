@@ -1,4 +1,4 @@
-module github.com/o2gy84/etcdtool
+module github.com/mickep76/etcdtool
 
 go 1.14
 
